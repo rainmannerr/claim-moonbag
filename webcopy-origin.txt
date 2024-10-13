@@ -1,0 +1,48 @@
+Uri: https://moonbag.org/
+File Name: C:\Downloaded Web Sites\moonbag.org\index.htm
+Content Type: text/html
+
+Uri: https://moonbag.org/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\moonbag.org\apple-touch-icon-1.png
+Content Type: image/png
+
+Uri: https://moonbag.org/assets/index-AxqDdaqd.js
+File Name: C:\Downloaded Web Sites\moonbag.org\assets\index-AxqDdaqd.js
+Content Type: application/x-javascript
+
+Uri: https://moonbag.org/assets/index-yIZWBbLM.css
+File Name: C:\Downloaded Web Sites\moonbag.org\assets\index-yIZWBbLM.css
+Content Type: text/css
+
+Uri: https://moonbag.org/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\moonbag.org\favicon-16x16-1.png
+Content Type: image/png
+
+Uri: https://moonbag.org/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\moonbag.org\favicon-32x32-1.png
+Content Type: image/png
+
+Uri: https://moonbag.org/img/background-burst.svg
+File Name: C:\Downloaded Web Sites\moonbag.org\img\background-burst-1.svg
+Content Type: image/svg+xml
+
+Uri: https://moonbag.org/img/monkey-ring.svg
+File Name: C:\Downloaded Web Sites\moonbag.org\img\monkey-ring-1.svg
+Content Type: image/svg+xml
+
+Uri: https://moonbag.org/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\moonbag.org\safari-pinned-tab-1.svg
+Content Type: image/svg+xml
+
+Uri: https://moonbag.org/site.webmanifest
+File Name: C:\Downloaded Web Sites\moonbag.org\site-1.webmanifest
+Content Type: 
+
+Uri: https://www.facebook.com/tr?id=762852782702086&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\moonbag.org\tr-1
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-GD887QDGH6
+File Name: C:\Downloaded Web Sites\moonbag.org\gtag\js-1
+Content Type: application/javascript
+
